@@ -1,2 +1,2 @@
 # application
-電卓(試製)
+calculator(prototype)
